@@ -21,6 +21,6 @@ tags:
 4. 교회
 5. 할일정리
 
-![Untitled](\images\2022\12\test/Untitled.png)
+![Untitled](/images/2022/12/test/Untitled.png)
 
-![Untitled](\images\2022\12\test/Untitled%201.png)
+![Untitled](/images/2022/12/test/Untitled%201.png)
